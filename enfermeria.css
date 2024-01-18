@@ -1,0 +1,52 @@
+body {
+	
+	background-color: #D5DBDB;
+}
+.contenedor{
+	background-color: 
+}
+
+div{
+	background-color: #AED6F1;
+	font-size: 40px;
+	text-align: center;
+}
+table {
+            width: 50%;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+.formulario {
+            max-width: 300px;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 5px;
+            margin-top: 5px;
+        }
+        input[type="submit"] {
+            background-color: #AED6F1;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
